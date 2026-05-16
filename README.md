@@ -1,2 +1,2 @@
-# osint-resources
+# OSINT Resouces
 Comprehensive List of Resources
